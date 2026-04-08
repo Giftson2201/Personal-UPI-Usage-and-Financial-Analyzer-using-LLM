@@ -83,6 +83,7 @@ Right now, it focuses on:
 There’s a lot more it can grow into.
 
 👤 Author
-
-Your Name
-Chennai, I
+Giftson Pratap Singh
+📍 Chennai, India
+🔗 LinkedIn: (https://www.linkedin.com/in/giftson-pratap-singh-3b580061)
+💻 GitHub: (https://www.github.com/Giftson2201)
