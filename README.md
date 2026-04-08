@@ -1,7 +1,6 @@
-💸 AI UPI Transaction Analyzer
+💸 AI UPI Transaction Analyzer - Making Sense of Your Daily Transactions 🚀 
 
-Making Sense of Your Daily Transactions
-🚀 What is this project?
+What is this project?
 
 This project is a simple financial analysis tool that helps you understand your UPI transactions better.
 
