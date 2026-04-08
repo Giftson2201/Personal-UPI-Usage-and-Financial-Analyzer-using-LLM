@@ -1,4 +1,5 @@
 💸 AI UPI Transaction Analyzer
+
 Making Sense of Your Daily Transactions
 🚀 What is this project?
 
@@ -82,7 +83,7 @@ Right now, it focuses on:
 
 There’s a lot more it can grow into.
 
-👤 Author
+👤 Author - 
 Giftson Pratap Singh
 📍 Chennai, India
 🔗 LinkedIn: (https://www.linkedin.com/in/giftson-pratap-singh-3b580061)
